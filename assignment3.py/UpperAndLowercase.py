@@ -12,6 +12,6 @@ def  string(s):
         else:
             pass
     return(upper,lower)       
-string1 = "Edyoda  Python Assignment"
+string1 = input("enter :",)
 print(string(string1))            
 
