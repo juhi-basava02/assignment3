@@ -4,5 +4,5 @@ def string(num):
     num = num[::-1]
     return num
     
-string1 = "edyoda  python assignment"
+string1 = input()
 print(string(string1))    
