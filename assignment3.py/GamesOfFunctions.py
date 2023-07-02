@@ -6,7 +6,7 @@ def sum(num):
         result += i
     return result
 
-list1 = list(map(int,input("square:",).split()))   
+list1 = list(map(int,input("number:",).split()))   
 sum(list1)
 print(sum(list1))
         
